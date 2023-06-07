@@ -11,6 +11,5 @@ rewritting the code twice.
 How?
 Create the attribute and method in the superclass.
 In the subclass file, use the keyword "extends" to inherit from the Vehicle. 
-Furthermore, a subclass can also implements its own specific method from using
-the existing parent class methods. 
+
  
