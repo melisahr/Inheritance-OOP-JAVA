@@ -1,5 +1,6 @@
 # Inheritance-OOP-JAVA
 Language:Java
+
 I follow along a YouTube video to understand inheritance.
 
 Inheritance is the process to in where the subclass can inherit the attributes and methods of the superclass.
@@ -10,4 +11,6 @@ rewritting the code twice.
 How?
 Create the attribute and method in the superclass.
 In the subclass file, use the keyword "extends" to inherit from the Vehicle. 
+Furthermore, a subclass can also implements its own specific method from using
+the existing parent class methods. 
  
